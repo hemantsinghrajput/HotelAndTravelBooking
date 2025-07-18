@@ -120,7 +120,7 @@ The app includes a comprehensive demo API service that simulates real API calls:
 - `getHotelRecommendations()` - Get recommended hotels
 
 ### Mock Data
-- 5 sample hotels in different cities (New York, Miami, Denver, Los Angeles, Boston)
+- 6-7 sample hotels in different cities (Delhi,Mumbai,Pune,Jaipur,Hyderabad,Chennai, etc.)
 - Various room types with different prices and capacities
 - Hotel images from Unsplash
 - Ratings and detailed descriptions
@@ -173,7 +173,7 @@ The app includes a comprehensive demo API service that simulates real API calls:
 
 To test the app:
 1. Run the app on a device or simulator
-2. Search for hotels in cities like "New York", "Miami", "Denver", "Los Angeles", or "Boston"
+2. Search for hotels in cities like "Delhi", "Mumbai", "Pune", "Hyderabad", or "Jaipur"
 3. Try the filtering options on the hotel list
 4. Complete a booking to test the form validation
 5. Check that bookings are saved locally
